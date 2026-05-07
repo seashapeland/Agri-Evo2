@@ -42,3 +42,4 @@ server_results_*/
 *.log
 *.tmp
 tmp*
+release/
