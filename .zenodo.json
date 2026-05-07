@@ -12,6 +12,5 @@
     "django",
     "vue",
     "bioinformatics"
-  ],
-  "license": "MIT"
+  ]
 }
