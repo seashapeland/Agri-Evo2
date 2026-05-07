@@ -1,10 +1,10 @@
 {
-  "title": "Evo2Web",
+  "title": "Agri-Evo2",
   "upload_type": "software",
-  "description": "Source code for the Evo2Web frontend and backend.",
+  "description": "Source code for the Agri-Evo2 frontend and backend.",
   "creators": [
     {
-      "name": "af"
+      "name": "seashapeland"
     }
   ],
   "keywords": [
