@@ -1,0 +1,17 @@
+{
+  "title": "Evo2Web",
+  "upload_type": "software",
+  "description": "Source code for the Evo2Web frontend and backend.",
+  "creators": [
+    {
+      "name": "af"
+    }
+  ],
+  "keywords": [
+    "genomics",
+    "django",
+    "vue",
+    "bioinformatics"
+  ],
+  "license": "MIT"
+}

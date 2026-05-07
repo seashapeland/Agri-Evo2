@@ -1,0 +1,44 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Django/runtime
+Evo2Back/db.sqlite3
+Evo2Back/staticfiles/
+Evo2Back/media/
+Evo2Back/tmp*
+
+# Frontend build/deps
+Evo2Front/node_modules/
+Evo2Front/dist/
+
+# Large datasets / model weights / experiment artifacts
+genome_data/
+train/
+server_results_*/
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/*.safetensors
+**/*.onnx
+**/*.h5
+
+# Logs and temp
+*.log
+*.tmp
+tmp*
